@@ -8,4 +8,4 @@ like useState, useRef, useEffect, useMemo, etc
 
 A] useState - It is basically used to change the state of the objects, 
 
- ![Alt text](image.png)
+![image](https://github.com/itsAniketChavan/react-series/assets/115894292/f0bea9b4-257e-49dd-881c-4b99116dbbed)
