@@ -21,3 +21,5 @@ defulat values.
 ex - function Card (name = "default value") =>{
     
 }
+
+![image](https://github.com/itsAniketChavan/react-series/assets/115894292/21608641-2476-4260-9ea7-656855b8f74f)
