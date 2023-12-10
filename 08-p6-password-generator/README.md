@@ -1,8 +1,14 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# In this project we learned about another three hooks'
+1 - useCallBack:
 
-Currently, two official plugins are available:
+This hook is basically used to optimize the function.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2 - useEffect
+
+This hook is used when we want to execute any functions at requred events, this time it helps us
+
+3- useRef
+
+This hook get the reference of the any particular tag or element.
+In this project we will use the useRef hook to get the reference of the input tag
