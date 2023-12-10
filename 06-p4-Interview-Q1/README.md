@@ -18,4 +18,4 @@ setCount((count) => count+1)
 setCount((count) => count+1)
 setCount((count) => count+1)
 
-This will work fines..
+This will work as we want
