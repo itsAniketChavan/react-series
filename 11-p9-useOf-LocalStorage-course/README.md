@@ -1,8 +1,8 @@
-# React + Vite
+# In this course we have learned about the local storage of the browser.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+when we refresh our page at that all data which are stores in temporary variables, they gets null,so to avoid this
+we should store these values into the browsers local storage and whenever want can access in the component.
 
-Currently, two official plugins are available:
+![Uploading image.png…]()
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ 
