@@ -2,7 +2,7 @@
 
 # 2nd lecture Completed..
 
-# The Things Have learned.
+# The Things we learned.
 
 1- To create react-vite app - 
 
