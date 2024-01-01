@@ -8,6 +8,9 @@
 
 npm create vite@latest
 
+-> React
+-> Javascript
+
 Then Select next options accordingly.
 
 
